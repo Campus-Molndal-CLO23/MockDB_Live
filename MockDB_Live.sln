@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockDB_Live", "MockDB_Live\MockDB_Live.csproj", "{69C6A16D-9528-47AA-A058-1931B8ED7FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockDB_LiveTests", "MockDB_LiveTests\MockDB_LiveTests.csproj", "{3ED7FCB8-68B1-488F-A57E-973E36E14133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C6A16D-9528-47AA-A058-1931B8ED7FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C6A16D-9528-47AA-A058-1931B8ED7FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C6A16D-9528-47AA-A058-1931B8ED7FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C6A16D-9528-47AA-A058-1931B8ED7FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED7FCB8-68B1-488F-A57E-973E36E14133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED7FCB8-68B1-488F-A57E-973E36E14133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED7FCB8-68B1-488F-A57E-973E36E14133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED7FCB8-68B1-488F-A57E-973E36E14133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9558199-6E5D-4342-A79C-F99DD2E420AF}
+	EndGlobalSection
+EndGlobal
